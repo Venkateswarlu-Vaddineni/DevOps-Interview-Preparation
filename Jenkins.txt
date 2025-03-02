@@ -1,0 +1,222 @@
+											Jenkins Interview Questions
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What is Jenkins, and why is it used in DevOps?
+
+What are the advantages of using Jenkins?
+
+Explain the difference between Jenkins and other CI/CD tools like GitLab CI/CD, CircleCI, or Travis CI.
+
+How do you install Jenkins on an AWS EC2 instance?
+
+What are the system requirements for setting up Jenkins?
+
+Explain the architecture of Jenkins.
+
+What are Jenkins Master and Slave nodes? How do they communicate?
+
+What is an agent in Jenkins, and how do you configure it?
+
+What is a Jenkins pipeline? How is it different from a freestyle job?
+
+What are Jenkins nodes, and how do you add an additional node to Jenkins?
+
+What are the different types of Jenkins jobs?
+
+How do you trigger a Jenkins job automatically?
+
+What is a declarative pipeline vs. a scripted pipeline?
+
+How do you pass parameters to a Jenkins job?
+
+How can you schedule a job in Jenkins using cron syntax?
+
+What are Jenkins plugins, and why are they important?
+
+How do you install and manage plugins in Jenkins?
+
+What are some commonly used plugins in Jenkins for DevOps?
+
+How do you integrate Jenkins with GitHub?
+
+How do you integrate Jenkins with SonarQube for code quality checks?
+
+Explain the role of Jenkins in a CI/CD pipeline.
+
+How do you implement Continuous Deployment using Jenkins?
+
+How do you deploy an application to a Kubernetes cluster using Jenkins?
+
+How do you deploy a Docker container using Jenkins?
+
+What are post-build actions in Jenkins?
+
+How do you secure a Jenkins server?
+
+How do you configure role-based access control (RBAC) in Jenkins?
+
+How do you enable authentication in Jenkins?
+
+What are secrets in Jenkins, and how do you manage them?
+
+How do you back up and restore Jenkins jobs and configurations?
+
+How do you create a simple Jenkinsfile?
+
+What is the difference between stages and steps in a Jenkins pipeline?
+
+How do you store credentials securely in a Jenkins pipeline?
+
+How do you use Groovy scripting in Jenkins pipelines?
+
+How do you create a parallel execution in a Jenkins pipeline?
+
+What do you do if a Jenkins job is stuck in the queue?
+
+How do you troubleshoot a failing Jenkins job?
+
+What are the best practices for optimizing Jenkins performance?
+
+How do you debug issues in a Jenkins pipeline?
+
+What is Jenkins system log, and how do you access it?
+
+What is a Jenkins agent, and how do you set up one?
+
+How do you configure Jenkins to run on multiple nodes?
+
+What is the difference between a static and dynamic Jenkins agent?
+
+How do you scale Jenkins for large DevOps teams?
+
+How do you run Jenkins jobs in Docker containers?
+
+How do you implement blue-green deployment in Jenkins?
+
+How do you integrate Jenkins with Ansible for infrastructure automation?
+
+What is a multi-branch pipeline in Jenkins?
+
+How do you set up Jenkins as a service in Linux?
+
+How do you use Jenkins API to trigger jobs remotely?
+
+What is Jenkins, and what is its primary use in DevOps?
+
+How do you install Jenkins on a Linux server?
+
+What is a Jenkins job, and how do you create one?
+
+What is the difference between a Freestyle project and a Pipeline in Jenkins?
+
+How do you configure Jenkins to use a specific version of Java?
+
+What is the purpose of the Jenkinsfile?
+
+How do you secure Jenkins?
+
+What is the purpose of the Jenkins Home Directory?
+
+How do you back up and restore Jenkins configurations?
+
+What is the difference between Jenkins Master and Jenkins Agent?
+
+What is a Jenkins Pipeline, and how does it work?
+
+What is the difference between Declarative Pipeline and Scripted Pipeline?
+
+How do you parameterize a Jenkins job?
+
+What is the purpose of the Blue Ocean plugin in Jenkins?
+
+How do you integrate Jenkins with version control systems like Git?
+
+What is the purpose of the Jenkins Shared Library?
+
+How do you trigger a Jenkins job automatically when code is pushed to a Git repository?
+
+What is the purpose of the Jenkins Artifact?
+
+How do you manage credentials in Jenkins?
+
+What is the purpose of the Jenkins Console Output?
+
+How do you implement a CI/CD pipeline using Jenkins?
+
+What is the purpose of the Jenkins Pipeline Multibranch feature?
+
+How do you handle parallel execution in a Jenkins Pipeline?
+
+What is the purpose of the Jenkins Distributed Builds?
+
+How do you integrate Jenkins with Docker?
+
+What is the purpose of the Jenkins Configuration as Code (JCasC) plugin?
+
+How do you monitor Jenkins performance?
+
+What is the purpose of the Jenkins Pipeline Shared Libraries?
+
+How do you handle rollbacks in a Jenkins Pipeline?
+
+What is the purpose of the Jenkins Declarative Pipeline syntax?
+
+What are some commonly used Jenkins plugins?
+
+How do you install and manage plugins in Jenkins?
+
+What is the purpose of the Pipeline Utility Steps plugin?
+
+How do you use the Jenkins Artifactory plugin?
+
+What is the purpose of the Jenkins Kubernetes plugin?
+
+How do you use the Jenkins Slack Notification plugin?
+
+What is the purpose of the Jenkins SonarQube plugin?
+
+How do you use the Jenkins Email Extension plugin?
+
+What is the purpose of the Jenkins Ansible plugin?
+
+How do you use the Jenkins Docker Pipeline plugin?
+
+How do you troubleshoot a Jenkins job that is stuck in the queue?
+
+What would you do if a Jenkins job fails due to a dependency issue?
+
+How do you troubleshoot a Jenkins Pipeline that is not running as expected?
+
+What would you do if Jenkins runs out of disk space?
+
+How do you troubleshoot a Jenkins agent that is not connecting to the master?
+
+What would you do if a Jenkins job fails due to a permission issue?
+
+How do you troubleshoot a Jenkins Pipeline that is taking too long to execute?
+
+What would you do if Jenkins is not able to fetch code from a Git repository?
+
+How do you troubleshoot a Jenkins job that is failing due to a plugin issue?
+
+What would you do if Jenkins is not able to send email notifications?
+
+How would you set up a Jenkins Pipeline to deploy a Java application to a Tomcat server?
+
+How would you implement a Jenkins Pipeline to run tests in parallel?
+
+How would you handle a situation where a Jenkins job is failing intermittently?
+
+How would you set up a Jenkins Pipeline to deploy a Dockerized application to Kubernetes?
+
+How would you implement a Jenkins Pipeline to roll back a deployment in case of failure?
+
+How would you set up a Jenkins Pipeline to deploy to multiple environments (e.g., Dev, QA, Prod)?
+
+How would you handle a situation where a Jenkins job is failing due to a network issue?
+
+How would you set up a Jenkins Pipeline to integrate with SonarQube for code quality checks?
+
+How would you implement a Jenkins Pipeline to deploy a microservices-based application?
+
+How would you handle a situation where Jenkins is not able to authenticate with a Git repository?
+

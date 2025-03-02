@@ -1,0 +1,204 @@
+What is Git, and how is it different from other version control systems?
+
+Explain the difference between git pull and git fetch.
+
+What is a git repository?
+
+How do you initialize a new Git repository?
+Answer: git init
+
+What is the purpose of the .gitignore file?
+
+How do you check the status of your working directory in Git?
+Answer: git status
+
+What is the difference between git merge and git rebase?
+
+How do you undo the last commit in Git?
+Answer: git reset --soft HEAD~1
+
+What is a git stash, and when would you use it?
+
+How do you create and switch to a new branch in Git?
+Answer: git checkout -b <branch_name>
+
+Intermediate Git Questions
+What is the difference between git reset and git revert?
+
+How do you resolve a merge conflict in Git?
+
+What is the purpose of git cherry-pick?
+
+How do you squash multiple commits into one?
+Answer: Use git rebase -i HEAD~n (where n is the number of commits).
+
+What is the difference between HEAD, working tree, and index in Git?
+
+How do you delete a branch locally and remotely?
+Answer:
+Locally: git branch -d <branch_name>
+Remotely: git push origin --delete <branch_name>
+
+What is the purpose of git bisect?
+
+How do you view the commit history in Git?
+Answer: git log
+
+What is the difference between git clone and git fork?
+
+How do you amend the last commit message?
+Answer: git commit --amend
+
+What is the Gitflow workflow, and how does it work?
+
+How do you handle large files in Git?
+Answer: Use Git LFS (Large File Storage).
+
+What is the purpose of git reflog?
+
+How do you rebase a branch interactively?
+Answer: git rebase -i <commit_hash>
+
+What is the difference between git submodule and git subtree?
+
+How do you configure Git to use a proxy?
+Answer: git config --global http.proxy <proxy_url>
+
+What is the purpose of git hooks?
+
+How do you optimize a Git repository for performance?
+
+What is the difference between git fetch --prune and git remote prune origin?
+
+How do you handle a situation where you accidentally committed sensitive data (e.g., passwords)?
+Answer: Use git filter-branch or BFG Repo-Cleaner to remove the sensitive data from the history.
+
+GitHub Interview Questions
+What is GitHub, and how is it different from Git?
+
+How do you create a new repository on GitHub?
+
+What is a Pull Request (PR), and how does it work?
+
+How do you fork a repository on GitHub?
+
+What is the purpose of GitHub Actions?
+
+How do you clone a repository from GitHub?
+Answer: git clone <repository_url>
+
+What is the difference between a fork and a clone?
+
+How do you resolve a merge conflict in a Pull Request?
+
+What is the purpose of GitHub Issues?
+
+How do you add a collaborator to a GitHub repository?
+
+What is the purpose of GitHub Pages?
+
+How do you enable branch protection rules in GitHub?
+
+What is the difference between GitHub Actions and Jenkins?
+
+How do you create and manage GitHub Secrets?
+
+What is the purpose of CODEOWNERS file in GitHub?
+
+How do you automate deployments using GitHub Actions?
+
+What is the difference between GitHub and GitLab?
+
+How do you use GitHub CLI (Command Line Interface)?
+
+What is the purpose of Dependabot in GitHub?
+
+How do you create a release in GitHub?
+
+How do you implement CI/CD pipelines using GitHub Actions?
+
+What is the purpose of GitHub Environments?
+
+How do you manage large repositories on GitHub?
+Answer: Use Git LFS or split the repository into smaller ones.
+
+What is the difference between GitHub Self-Hosted Runners and GitHub-Hosted Runners?
+
+How do you integrate GitHub with third-party tools like Slack or Jira?
+
+What is the purpose of GitHub Advanced Security?
+
+How do you handle repository migrations from GitHub to another platform?
+
+What is the purpose of GitHub Discussions?
+
+How do you use GitHub Packages to manage dependencies?
+
+How do you troubleshoot failed GitHub Actions workflows?
+
+How would you handle a situation where a Pull Request has failing checks?
+
+How would you roll back a deployment that was made using GitHub Actions?
+
+How would you handle a situation where a collaborator accidentally deleted a branch?
+
+How would you automate the process of creating release notes in GitHub?
+
+How would you handle a situation where a repository has become too large to manage?
+
+What is Git, and why is it used?
+
+What are the key differences between Git and other version control systems like SVN?
+
+Explain the Git workflow.
+
+What is the difference between git init and git clone?
+
+How do you check the status of your Git repository?
+
+What is the difference between git merge and git rebase?
+
+How do you resolve merge conflicts in Git?
+
+What is git stash, and when would you use it?
+
+How do you create and switch to a new branch?
+
+What is the difference between git pull and git fetch?
+
+How do you undo the last commit in Git?
+
+What is the difference between git reset and git revert?
+
+How do you remove a file from Git without deleting it from your local system?
+
+How do you squash multiple commits into a single commit?
+
+How can you view commit history in Git?
+
+What is the difference between origin and upstream in Git?
+
+How do you push your local branch to a remote repository?
+
+What is git cherry-pick, and how is it used?
+
+How do you force push a branch in Git?
+
+How do you set up a tracking branch?
+
+What is a pull request (PR) in GitHub?
+
+How do you review and approve a pull request in GitHub?
+
+What is the difference between merge and rebase when handling pull requests?
+
+How do you protect a branch in GitHub?
+
+How do you manage access control and permissions in GitHub?
+
+What is a GitHub webhook, and how is it used in automation?
+
+How do you handle secrets and sensitive data in GitHub repositories?
+
+How do you resolve merge conflicts in a pull request?
+

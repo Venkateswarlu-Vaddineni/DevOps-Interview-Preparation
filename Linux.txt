@@ -1,0 +1,86 @@
+											Linux Interview Questions
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.	What is the difference between rm and rm -rf?
+
+2.	How do you check the disk usage of a directory?
+Answer: du -sh /path/to/directory
+
+3.	What is the difference between kill and kill -9?
+
+4.	How do you find a file in Linux?
+Answer: find /path/to/search -name "filename"
+
+5.	What is the purpose of the grep command?
+
+6.	How do you check the running processes in Linux?
+Answer: ps aux or top
+
+7.	What is the difference between soft link and hard link?
+
+8.	How do you check the IP address of a system?
+Answer: ip addr show or ifconfig
+
+9.	What is the use of chmod, chown, and chgrp?
+
+10.	How do you check the kernel version of a Linux system?
+Answer: uname -r
+
+11.	What is the difference between ls, ls -l, and ls -a?
+
+12.	How do you find the current working directory?
+
+13.	How do you search for a file in Linux?
+
+14.	What command is used to display the contents of a file?
+
+15.	How do you check disk usage in Linux?
+
+16.	How do you list all running processes?
+
+17.	What is the difference between ps, top, and htop?
+
+18.	How do you terminate a running process in Linux?
+
+19.	How do you check the system uptime?
+
+20.	How do you find the largest files or directories in a system?
+
+21.	How do you create a new user in Linux?
+
+22.	What is the difference between su and sudo?
+
+23.	How do you change the ownership of a file?
+
+24.	What are the different file permissions in Linux?
+
+25.	How do you modify file permissions using chmod?
+
+26.	How do you switch users in Linux?
+
+27.	What is the purpose of /etc/passwd and /etc/shadow?
+
+28.	How do you check which users are currently logged in?
+
+29.	How do you find the IP address of your system?
+
+30.	How do you check which ports are open on your machine?
+
+31.	What is the difference between yum and apt?
+
+32.	How do you install, remove, and update packages in Linux?
+
+33.	How do you check if a package is installed on your system?
+
+34.	What is the purpose of rpm and dpkg?
+
+35.	How do you find dependencies of a package?
+
+36.	How do you check the system logs in Linux?
+Answer: journalctl or /var/log/ directory.
+
+37.	How do you troubleshoot a high CPU usage issue?
+Answer: Use top or htop to identify the process.
+
+38.	How do you troubleshoot a high memory usage issue?
+Answer: Use free -h or top to check memory usage.
+
