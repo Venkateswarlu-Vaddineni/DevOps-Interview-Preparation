@@ -1,22 +1,19 @@
 											Linux Interview Questions
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.	What is the difference between rm and rm -rf?
-
+Answer: rm - Deletes the files and rm -rf deletes the files + directories
 2.	How do you check the disk usage of a directory?
 Answer: du -sh /path/to/directory
-
 3.	What is the difference between kill and kill -9?
-
+Answer: kill terminates specified process gracefully by allowing process to close files, release memory and cleanup resources where ass kill -9 terminates the process forcefully.
 4.	How do you find a file in Linux?
 Answer: find /path/to/search -name "filename"
-
 5.	What is the purpose of the grep command?
-
+Answer: To search and display lines that contain a specified string or pattern from files or command output.
 6.	How do you check the running processes in Linux?
 Answer: ps aux or top
-
 7.	What is the difference between soft link and hard link?
-
+Answer: 
 8.	How do you check the IP address of a system?
 Answer: ip addr show or ifconfig
 
